@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyNilai_RevanzaMarsapala</string>
+    <string name="todo">TODO</string>
+    <string name="proses_input_nilai">Proses Input Nilai</string>
+    <string name="mahasiswa">Mahasiswa</string>
+    <string name="pilih_mata_kuliah">Pilih Mata Kuliah :</string>
+    <string name="next">Next</string>
+    <string name="input_nilai_mahasiswa">Input Nilai Mahasiswa</string>
+</resources>
